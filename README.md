@@ -1,6 +1,6 @@
 ### Hi there, I'm Phye Phyo Thu - aka [R Thu]👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/phyephyothu?color=1DA1F2&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=phyephyothu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/phyephyothu?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=phyephyothu)
 
 ## I'm a Brother, Developer, and Teacher!
 
