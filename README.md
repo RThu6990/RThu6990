@@ -4,7 +4,7 @@
 
 ## I'm a Brother, Developer, and Teacher!
 
-- 🔭 I’m currently working on a Shopkeeper Project
+- 🔭 I’m currently working on a Standalone Print Invoice App for PC
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators and developers
 - ⚡ Fun fact: playing games
